@@ -1,6 +1,6 @@
 python-manylinux-demo
 =====================
-Demo project for building Python wheels for Linux with Travis-CI
+My demo project for building Python wheels for Linux with Travis-CI
 
 [![Build Status](https://travis-ci.org/pypa/python-manylinux-demo.svg?branch=master)](https://travis-ci.org/pypa/python-manylinux-demo)
 
